@@ -1,2 +1,2 @@
-# uas-promnet-kom3a-2202097
+# uas-promnet-kom3b-2202097
 UAS Promnet - Elsha RL
